@@ -1,4 +1,4 @@
-The problem solved in two ways:
+The problem has been solved in two ways:
 
 1) On the assumpution that pictures with the same hash are similar.
 
